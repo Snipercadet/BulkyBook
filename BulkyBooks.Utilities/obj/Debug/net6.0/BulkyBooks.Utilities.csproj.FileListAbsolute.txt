@@ -1,0 +1,12 @@
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\bin\Debug\net6.0\BulkyBooks.Utilities.deps.json
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\bin\Debug\net6.0\BulkyBooks.Utilities.dll
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\bin\Debug\net6.0\BulkyBooks.Utilities.pdb
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\obj\Debug\net6.0\BulkyBooks.Utilities.csproj.AssemblyReference.cache
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\obj\Debug\net6.0\BulkyBooks.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\obj\Debug\net6.0\BulkyBooks.Utilities.AssemblyInfoInputs.cache
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\obj\Debug\net6.0\BulkyBooks.Utilities.AssemblyInfo.cs
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\obj\Debug\net6.0\BulkyBooks.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\obj\Debug\net6.0\BulkyBooks.Utilities.dll
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\obj\Debug\net6.0\refint\BulkyBooks.Utilities.dll
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\obj\Debug\net6.0\BulkyBooks.Utilities.pdb
+C:\Users\SNIPER\source\repos\BulkyBook\BulkyBooks.Utilities\obj\Debug\net6.0\ref\BulkyBooks.Utilities.dll

@@ -1,0 +1,100 @@
+﻿@model Company
+
+<form method="post" asp-action="Upsert" enctype="multipart/form-data" >
+    <input hidden asp-for="Id" />
+           
+    <div class="row">
+        <div class="col-10">
+    <div class="border p-4 mt-2">
+        <div class="col-12 pb-1 mt-5">
+            <h3 class=" text-primary">@(Model.Id !=0? "Update" : "Create") Company</h3>
+            <hr />
+        </div>
+
+        <div class=" mb-2 row" >
+            <div class="mb-2">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-2">
+                <label asp-for="StreetAddress"></label>
+                <input asp-for="StreetAddress" class="form-control" />
+                <span asp-validation-for="StreetAddress" class="text-danger"></span>
+            </div>
+            <div class="mb-2 col-6">
+                <label asp-for="City"></label>
+                <input asp-for="City" class="form-control" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+
+            <div class="mb-2 col-6">
+                <label asp-for="State"></label>
+                <input asp-for="State" class="form-control" />
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+            <div class="mb-2 col-6">
+                <label asp-for="PostalCode"></label>
+                <input asp-for="PostalCode" class="form-control" />
+                <span asp-validation-for="PostalCode" class="text-danger"></span>
+            </div>
+            <div class="mb-2 col-6">
+                <label asp-for="PhoneNumber"></label>
+                <input asp-for="PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+             
+
+            <div class="mt-3 col-12">
+               @* @if (Model.Id !=0)
+                {
+                    <button type="submit"  class="btn btn-primary" style="width:150px; margin-right:10px">@(Model.Id !=0? "Update" : "Create")</button>
+                }
+                else
+                {
+                    <button type="submit"  onclick="return ValidateInput()" class="btn btn-primary" style="width:150px; margin-right:10px">Create</button>
+                    
+                }*@
+                        <button type="submit" class="btn btn-primary" style="width:150px; margin-right:10px">@(Model.Id !=0? "Update" : "Create")</button>
+
+                        <a asp-action="Index" class="btn btn alert-secondary" style="width:200px; ">Back to Company List</a>
+            </div>
+        </div>
+   
+       
+    </div>
+        
+</form>
+
+@section Scripts{
+    @{
+    <partial name="_ValidationScriptsPartial" />
+    }
+
+    @*<script src="/tinymce/js/tinymce/tinymce.min.js"></script>
+    <script type="text/javascript">
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'advlist autolink lists link image charmap print preview anchor',
+            toolbar_mode: 'floating',
+        });
+    </script>
+
+    <script>
+        function ValidateInput() 
+        {
+            if (document.getElementById("uploadBox").value == "") 
+            {
+   
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'Please upload an image',
+
+                });
+                return false;
+            } 
+            return true;
+        }
+    </script>*@
+}
