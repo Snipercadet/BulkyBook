@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dWhMMaDkOlE49tqOuqVk4gZmVBV4oMKke9kOS/jA2zo=",
+  "Hash": "G2L6KrbsMj2nyn9F/E4aov/6fg0++OoHAu5p9BGGV3I=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bootstrap4Theme.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bootstrap4Theme.js",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bootstrap4Theme.min.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bootstrap4Theme.min.js",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bootstrap4Theme.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "borderlessTheme.css",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "borderlessTheme.js",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "borderlessTheme.min.css",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "borderlessTheme.min.js",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\borderlessTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bulmaTheme.css",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bulmaTheme.js",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bulmaTheme.min.css",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bulmaTheme.min.js",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\bulmaTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "darkTheme.css",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "darkTheme.js",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "darkTheme.min.css",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "darkTheme.min.js",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\darkTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "defaultTheme.css",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "defaultTheme.js",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "defaultTheme.min.css",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "defaultTheme.min.js",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\defaultTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "materialUITheme.css",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "materialUITheme.js",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "materialUITheme.min.css",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "materialUITheme.min.js",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\materialUITheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "minimalTheme.css",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "minimalTheme.js",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "minimalTheme.min.css",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "minimalTheme.min.js",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\minimalTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\sweetAlert2.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\sweetAlert2.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "sweetAlert2.js",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\sweetAlert2.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\sweetAlert2.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\sweetAlert2.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\sweetAlert2.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "sweetAlert2.min.js",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\sweetAlert2.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\sweetAlert2.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "wordpressAdminTheme.css",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "wordpressAdminTheme.js",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "wordpressAdminTheme.min.css",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "wordpressAdminTheme.min.js",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.2.1\\staticwebassets\\wordpressAdminTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1085,13 +1085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1102,13 +1102,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1119,13 +1119,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1136,13 +1136,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1153,13 +1153,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1170,13 +1170,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1187,13 +1187,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1204,13 +1204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1221,13 +1221,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1238,13 +1238,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1255,13 +1255,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1272,13 +1272,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1289,13 +1289,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1323,13 +1323,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1340,13 +1340,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1357,13 +1357,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1374,13 +1374,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1391,13 +1391,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1408,13 +1408,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1425,13 +1425,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1442,13 +1442,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1459,13 +1459,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1476,13 +1476,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1493,13 +1493,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1510,13 +1510,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1527,13 +1527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1544,13 +1544,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1561,13 +1561,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1578,13 +1578,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1595,13 +1595,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1612,7 +1612,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SNIPER\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\pan it\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
       "Identity": "C:\\Users\\SNIPER\\source\\repos\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BulkyBookWeb.styles.css",
@@ -2463,6 +2463,74 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\SNIPER\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\icons\\minus.svg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SNIPER\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/icons/minus.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\minus.svg"
+    },
+    {
+      "Identity": "C:\\Users\\SNIPER\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\icons\\plus.svg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SNIPER\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/icons/plus.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\plus.svg"
+    },
+    {
+      "Identity": "C:\\Users\\SNIPER\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\icons\\sell_stock.svg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SNIPER\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/icons/sell_stock.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\sell_stock.svg"
+    },
+    {
+      "Identity": "C:\\Users\\SNIPER\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\icons\\trash.svg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SNIPER\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/icons/trash.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\trash.svg"
     },
     {
       "Identity": "C:\\Users\\SNIPER\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\18366af0-1798-43c6-a350-29c4fc25f313.jpg",

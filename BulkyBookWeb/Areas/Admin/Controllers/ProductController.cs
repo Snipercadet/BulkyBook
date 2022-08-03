@@ -16,6 +16,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
         private IWebHostEnvironment _hostEnvironment;
         [BindProperty]
         public ProductViewModel ProductVM { get; set; }
+        
         public ProductController(IUnitOfWork UnitOfWork, IWebHostEnvironment hostEnvironment)
         {
 
@@ -24,7 +25,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
 
             ProductVM = new ProductViewModel()
             {
-                Product = new(),
+                Product = new Product(),
                 CategoryList = _UnitOfWork.Category.GetAll().Select(i => new SelectListItem
                 {
                     Text = i.Name,

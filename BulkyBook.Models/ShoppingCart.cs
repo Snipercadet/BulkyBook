@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,9 +11,19 @@ namespace BulkyBook.Models
 {
     public class ShoppingCart
     {
+        public int Id { get; set; }
+        public int ProductId { get; set; }
+        [ForeignKey("ProductId")]
+        [ValidateNever]
         public Product Product { get; set; }
-        public int CategoryId { get; set; }
-        public IEnumerable<SelectListItem> CategoryList { get; set; }
         public int Count { get; set; }
+        public string ApplicationUserId { get; set; }
+        [ForeignKey("ApplicationUserId")]
+        [ValidateNever]
+        public ApplicationUser ApplicationUser { get; set; }
+
+       
+
+        
     }
 }

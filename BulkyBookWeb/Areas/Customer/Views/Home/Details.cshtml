@@ -1,11 +1,11 @@
 ﻿@model ShoppingCart
 
 <form method="post">
-    <input hidden asp-for="Product.Id" />
-        <div class="card  container pt-4 mt-12 mb-12 " style="width:900px; height:300px">
+    <input hidden asp-for="ProductId" />
+        <div class="card  container pt-4 m-15 " style="width:1000px; height:270px">
             <div class="card-header bg-primary text-light ml-0  row " style="height:100px">
                 <div class="col-12 col-md-6" style="height:80px">
-                    <h1 class="text-white-50">@Model.Product.Title</h1>
+                    <h1 class="text-white-50" style="font-size:30px">@Model.Product.Title</h1>
                     <p class="text-warning">by @Model.Product.Author</p>
                 </div>
                 <div class="col-12 col-md-6 text-end pt-4">
@@ -16,7 +16,7 @@
             <div class="card-body row container">
                 <div class="container rounded p-2">
                     <div class="row">
-                        <div class="col-8 col-lg-8">
+                        <div class="col-8 col-lg-8" style="padding:5px">
 
                             <div class="row pl-2">
                                 <h5 class="text-muted">ISBN : @Model.Product.ISBN</h5>
@@ -61,18 +61,19 @@
                             </div>
                         </div>
                         <div class="col-12 col-lg-3 offset-lg-1 text-center">
-                            <img src="@Model.Product.ImageUrl" width="100%" class="rounded" />
+                            <img src="@Model.Product.ImageUrl" width="100%" class="rounded" style="height:250px" />
+                           
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="card-footer">
-                <div class="row">
+            <div class="card-footer" >
+                <div class="row mb-10">
                     <div class="col-12 col-md-6 pb-1">
-                        <a class="btn btn-success form-control " style="height:50px;" asp-action="Index">Back to Home</a>
+                        <a class="btn btn-success form-control " style="height:40px;" asp-action="Index">Back to Home</a>
                     </div>
                     <div class="col-12 col-md-6 pb-1">
-                        <button type="submit" value="Add to Cart" class="btn btn-primary form-control" style="height:50px;">Add to Cart</button>
+                        <button type="submit" value="Add to Cart" class="btn btn-primary form-control" style="height:40px;">Add to Cart</button>
                     </div>
                 </div>
             </div>
